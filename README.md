@@ -1,0 +1,4 @@
+# content-hashicorp-certified-terraform-associate-foundations
+
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/b8c6cc89-fdec-4ebb-a29a-82a93101c2a6.svg?orgId=646349530171)](https://app.soluble.cloud/repos/details/github.com/manderson09/content-hashicorp-certified-terraform-associate-foundations?orgId=646349530171)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/a56c8246-8092-4f3c-85ec-386010dfdb2f.svg?orgId=646349530171)](https://app.soluble.cloud/repos/details/github.com/manderson09/content-hashicorp-certified-terraform-associate-foundations?orgId=646349530171)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/49c6324c-f29e-4341-8c12-3d17046be3ba.svg?orgId=646349530171)](https://app.soluble.cloud/repos/details/github.com/manderson09/content-hashicorp-certified-terraform-associate-foundations?orgId=646349530171)  
+
